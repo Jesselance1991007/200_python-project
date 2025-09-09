@@ -1,0 +1,6 @@
+num1 = float(input('ENTER A NUMBER'))
+num2 = float(input('ENTER A NEW NUMBER'))
+print(f"THE SUM OF THE NUMBERS IS: {num1+num2}")
+print(f"THE SUBTRACTION OF THE NUMBERS IS: {num1-num2}")
+print(f"THE DIVISION OF THE NUMBERS IS: {num1/num2}")
+print(f"THE MULTIPLICATION OF THE NUMBERS IS:{num1*num2}")
